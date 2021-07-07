@@ -1,0 +1,9 @@
+using System;
+
+namespace pipelines_dotnet_core.Models
+{
+    public class TestModel
+    {
+        public string TestId { get; set; }
+    }
+}
